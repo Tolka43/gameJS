@@ -8,13 +8,11 @@ body {
   margin: 0;
   padding: 5%;
   box-sizing: border-box;
-  background-color: bisque;
 }
 
 #app {
   height: 400px;
   width: 800px;
-  border: 1px solid red;
   position: absolute;
   background-color: khaki;
 }
@@ -34,6 +32,6 @@ body {
 }
 
 .owl {
-  right: 0;
+  left: 400px;
   background-image: url(https://raw.githubusercontent.com/lor3k/owl-game/master/img/owl.png);
 }
